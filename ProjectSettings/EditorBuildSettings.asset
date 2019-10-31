@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: f6d7ede040a649841a7a237af98e62be
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 945d1172e08a1c745bf03c35b7f84ca0
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: 9adb6d47a41d07d428f40a0337ee87b3
+  - enabled: 1
+    path: Assets/Scenes/Cabello.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Maquillaje.unity
+    guid: 654ebbac9df8cab4b946b7e6d14a583a
+  - enabled: 1
+    path: Assets/Scenes/Ropa.unity
+    guid: a6ba9ede239a6e54a90fd871b1b51b55
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: e4352ab25dc678147814c885da3de01b
+  - enabled: 0
+    path: Assets/Scenes/LlegarCasa.unity
+    guid: 3b4b55c2c59c6c941a4e4216391ace1b
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 6abdc7c33ee0d22448d62dbfff74db9e
+  m_configObjects: {}
